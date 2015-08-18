@@ -1,4 +1,4 @@
-Microsoft (R) .NET Global Assembly Cache Utility.  Version 4.0.30319.33440
+Microsoft (R) .NET Global Assembly Cache Utility.  Version 4.0.30319.18020
 Copyright (c) Microsoft Corporation.  All rights reserved.
 
 The Global Assembly Cache contains the following assemblies:
@@ -41,6 +41,7 @@ The Global Assembly Cache contains the following assemblies:
   Policy.1.2.Microsoft.Interop.Security.AzRoles, Version=6.1.7600.16385, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
   Policy.6.0.Microsoft.Ink, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
   PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  soapsudscode, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
   System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
   System.Data.OracleClient, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
   System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
@@ -52,7 +53,6 @@ The Global Assembly Cache contains the following assemblies:
   CustomMarshalers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   DTEParseMgd, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=x86
   ehexthost32, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
-  InstallInfoLibrary, Version=13.1.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=x86
   ISymWrapper, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   mcstoredb, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
   Microsoft.GroupPolicy.AdmTmplEditor, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
@@ -91,6 +91,7 @@ The Global Assembly Cache contains the following assemblies:
   Policy.1.7.Microsoft.Ink, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
   Policy.6.0.Microsoft.Ink, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
   PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  soapsudscode, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
   System.Data.OracleClient, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
   System.EnterpriseServices, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
@@ -100,9 +101,12 @@ The Global Assembly Cache contains the following assemblies:
   WebDev.WebHost, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   WebDev.WebHost20, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   Accessibility, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  AjaxControlToolkit, Version=3.0.20229.28337, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL
+  ArtOfTest.ShDocVw, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=2c87ddee179cbcea, processorArchitecture=MSIL
   Bccr.Auditoria.EnterpriseLibrary.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Componentes.BS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.DS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Fda.itextsharp, Version=5.3.5.0, Culture=neutral, PublicKeyToken=82ea37af02710c32, processorArchitecture=MSIL
   Bccr.Inicio.BS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Inicio.DS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Inicio.SI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
@@ -129,9 +133,14 @@ The Global Assembly Cache contains the following assemblies:
   ehRecObj, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   ehshell, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   EnvDTE100, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  EQATEC.Analytics.Monitor, Version=3.1.10.0, Culture=neutral, PublicKeyToken=213c7c68adb58a17, processorArchitecture=MSIL
   EventViewer, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   EventViewer.Resources, Version=6.1.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   EventViewer.Resources, Version=6.1.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  FarPoint.CalcEngine, Version=8.35.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.Excel, Version=8.35.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.Localization, Version=8.20.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.PDF, Version=8.35.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
   FSharp.Core, Version=2.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   IEExecRemote, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   IEHost, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -329,6 +338,8 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.PowerShell.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.PowerShell.Security.Resources, Version=1.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.PowerShell.Security.Resources, Version=1.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.CompositeWeb, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.CompositeWeb.EnterpriseLibrary, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.AppSettings.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Caching, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Caching, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -339,6 +350,7 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Practices.EnterpriseLibrary.Caching.Database, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Caching.Database, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Caching.Database.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.EnterpriseLibrary.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Common, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Common, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -348,20 +360,25 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Practices.EnterpriseLibrary.Configuration.DesignTime, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.EnterpriseLibrary.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Data, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Data, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Data.SqlCe, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Data.SqlCe, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.WCF.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.EnterpriseLibrary.Logging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Logging, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Logging, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -396,8 +413,10 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.ObjectBuilder, Version=1.0.51206.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Practices.ObjectBuilder2, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.ObjectBuilder2, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Microsoft.Practices.Unity, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.Unity, Version=2.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Practices.Unity.Configuration, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -504,8 +523,6 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Security.ApplicationId.Wizards.AutomaticRuleGenerationWizard.resources, Version=6.1.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.SharePoint.BusinessData.Administration.Client.Intl, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   Microsoft.ShDocVw, Version=8.0.50705.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
-  Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
-  Microsoft.Speech.Tools.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.SqlServer.ActiveXScriptTask, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
   Microsoft.SqlServer.ActiveXScriptTaskUI, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
   Microsoft.SqlServer.ADONETDest, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
@@ -1067,6 +1084,8 @@ The Global Assembly Cache contains the following assemblies:
   MMCFxCommon, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   MMCFxCommon.Resources, Version=3.0.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   MMCFxCommon.Resources, Version=3.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  Mono.Posix, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL
+  MonoDevelop.Xsp, Version=2.8.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL
   MSBuildTaskHost.resources, Version=12.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   MSBuildTaskHost.resources, Version=12.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   MSBuildTaskHost.resources, Version=12.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -1090,6 +1109,7 @@ The Global Assembly Cache contains the following assemblies:
   office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   OxpsConverter.Resources, Version=6.1.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   OxpsConverter.Resources, Version=6.1.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  policy.1.0.Mono.Cairo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL
   Policy.11.0.Microsoft.Office.Interop.Access, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   Policy.11.0.Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   Policy.11.0.Microsoft.Office.Interop.Graph, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
@@ -1121,7 +1141,36 @@ The Global Assembly Cache contains the following assemblies:
   Policy.12.0.Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   Policy.12.0.Microsoft.Vbe.Interop, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   Policy.12.0.office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
+  policy.2.0.Mono.Cairo, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL
   policy.2.1.Microsoft.Web.PlatformInstaller, Version=0.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  policy.2.10.atk-sharp, Version=2.10.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.10.gdk-sharp, Version=2.10.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.10.glade-sharp, Version=2.10.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.10.glib-sharp, Version=2.10.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.10.gtk-dotnet, Version=2.10.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.10.gtk-sharp, Version=2.10.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.10.pango-sharp, Version=2.10.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.4.atk-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.4.gdk-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.4.glade-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.4.glib-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.4.gtk-dotnet, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.4.gtk-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.4.pango-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.6.atk-sharp, Version=2.6.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.6.gdk-sharp, Version=2.6.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.6.glade-sharp, Version=2.6.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.6.glib-sharp, Version=2.6.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.6.gtk-dotnet, Version=2.6.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.6.gtk-sharp, Version=2.6.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.6.pango-sharp, Version=2.6.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.8.atk-sharp, Version=2.8.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.8.gdk-sharp, Version=2.8.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.8.glade-sharp, Version=2.8.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.8.glib-sharp, Version=2.8.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.8.gtk-dotnet, Version=2.8.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.8.gtk-sharp, Version=2.8.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  policy.2.8.pango-sharp, Version=2.8.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
   policy.3.0.Microsoft.Web.PlatformInstaller, Version=0.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   policy.3.0.System.Web.Mvc, Version=3.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   policy.3.5.System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
@@ -1162,6 +1211,7 @@ The Global Assembly Cache contains the following assemblies:
   System.AddIn, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   System.AddIn, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   System.AddIn.Contract, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  System.ComponentModel.Composition, Version=2009.7.8.0, Culture=neutral, PublicKeyToken=13e5ffd4e05db186, processorArchitecture=MSIL
   System.ComponentModel.DataAnnotations, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   System.ComponentModel.DataAnnotations.resources, Version=3.5.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   System.Configuration, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -1285,7 +1335,7 @@ The Global Assembly Cache contains the following assemblies:
   TaskScheduler, Version=6.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   TaskScheduler.Resources, Version=6.1.0.0, Culture=en, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   TaskScheduler.Resources, Version=6.1.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
-  Telerik.Web.Design, Version=2015.1.401.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL
+  Telerik.Web.Design, Version=2015.1.225.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL
   UIAutomationClient, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   UIAutomationClient.resources, Version=3.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   UIAutomationClientsideProviders, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -1332,11 +1382,13 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.VisualStudio.VCCodeModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   Microsoft.VisualStudio.VCProject, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   Microsoft.VisualStudio.VCProject, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+  Microsoft.VisualStudio.VCProjectEngine, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   Microsoft.VisualStudio.VCProjectEngine, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   Microsoft.VisualStudio.VCProjectEngine, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   Microsoft.VisualStudio.VSHelp, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   Microsoft.VisualStudio.VSHelp80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   Microsoft.Web.Services2, Version=2.0.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+  Microsoft.Web.Services2, Version=2.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
   mscomctl, Version=10.0.4504.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
   MSDATASRC, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
   office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c
@@ -1358,8 +1410,10 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.VisualStudio.Licensing, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
   Microsoft.VisualStudio.Licensing, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
   MSBuild, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
+  mscorcfg, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
   mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
   PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=AMD64
+  soapsudscode, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
   System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
   System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=AMD64
   System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=AMD64
@@ -1395,8 +1449,10 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Windows.Simulator.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   Microsoft.Windows.Simulator.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   MSBuild, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
+  mscorcfg, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
   PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86
+  soapsudscode, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
   System.Data.OracleClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=x86
   System.EnterpriseServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
@@ -1406,47 +1462,101 @@ The Global Assembly Cache contains the following assemblies:
   WebDev.WebHost40, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=x86
   Accessibility, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   AddInUtil.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  ArtOfTest.InternetExplorer, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=5339893a7cefe4d6, processorArchitecture=MSIL
+  ArtOfTest.WebAii, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c, processorArchitecture=MSIL
+  ArtOfTest.WebAii.Design, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d, processorArchitecture=MSIL
+  ArtOfTest.WebAii.Design.RemoteRecorder, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=56fa9668d21d4722, processorArchitecture=MSIL
   AspNetMMCExt, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   aspnet_compiler.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   aspnet_regbrowsers.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   aspnet_regsql.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  atk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
   Bccr.Administrativo.Autoservicio.BS.WakeUp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ba94349d38117fc, processorArchitecture=MSIL
   Bccr.Administrativo.Autoservicio.DS.WakeUp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ba94349d38117fc, processorArchitecture=MSIL
   Bccr.Administrativo.Autoservicio.SI.Datos.WakeUp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ba94349d38117fc, processorArchitecture=MSIL
+  Bccr.Administrativo.Utiles.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9ba94349d38117fc, processorArchitecture=MSIL
   Bccr.Anotaciones.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Auditoria.BS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Auditoria.DS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Auditoria.Monitor.SI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Auditoria.SI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Auditoria.SI.Datos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Auditoria.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Auditoria.US, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Auditoria.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.CertificadosDigitales.BS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.CertificadosDigitales.SI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.CertificadosDigitales.SI.Datos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Colecciones, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Comun.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Comun.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Configuracion.BS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Configuracion.DS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Configuracion.SI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Configuracion.SI.Datos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Configuracion.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Configuracion.US, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Desarrollo.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Desarrollo.US, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.EF.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
-  Bccr.Eventos.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Extensiones.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Fda.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Fda.iTextSharp, Version=5.3.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL
+  Bccr.Fda.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  BCCR.GAP.Findur.Model.InterfazSIP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.GAP.Findur.SI.InterfazBNV, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.GAP.Findur.SI.InterfazRDE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  BCCR.GAP.Findur.SI.InterfazSIP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  BCCR.GAP.Findur.SI.Model.InterfazSIP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Gdi.SitioCalidad.SI.Datos.RolesXML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0323df5467971268, processorArchitecture=MSIL
+  Bccr.Gee.Captura.BS.CAP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.DS.CAP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.CAP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.CAPExterno, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.Datos.CAP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.Datos.CAPExterno, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.Datos.IEC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.Datos.Monitor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.Datos.Reglas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.IEC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.InterfazSDDE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.Monitor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Captura.SI.Reglas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Gee.Panel.SI.Datos.Modelador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  BCCR.GEE.SDDE.Utiles.v20, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b2e3f576af8b756e, processorArchitecture=MSIL
+  Bccr.HojaTrabajo.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Identificacion.v2, Version=1.0.1.0, Culture=neutral, PublicKeyToken=1319b21dd9c75587, processorArchitecture=MSIL
+  Bccr.Inicio.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Inicio.US, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Institucional.Calendarizador.BS.Configuracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
   Bccr.Institucional.Calendarizador.DS.Configuracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
   Bccr.Institucional.Calendarizador.SI.Configuracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
   Bccr.Institucional.Calendarizador.SI.Datos.Configuracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Institucional.Calendarizador.UI.Configuracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Institucional.Calendarizador.US.Configuracion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Institucional.Mcd.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Institucional.Monitor.Utiles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Institucional.Seguridad.BS.Homologador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Institucional.Seguridad.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Institucional.Seguridad.DS.Homologador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Institucional.Seguridad.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Institucional.Seguridad.SI.Datos.AutenticacionMonitor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Institucional.Seguridad.SI.Datos.Homologador, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
-  Bccr.Invocador.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Institucional.TDA.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Institucional.Utiles.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=26df3c2d93ed8dc2, processorArchitecture=MSIL
+  Bccr.Interfaz.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Interfaz.UI.Controles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Interfaz.US, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Invocador.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
-  Bccr.ProcesosCalendarizados.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
-  Bccr.ProcesosCalendarizados.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Multinegocio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Mvc.Helpers.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Mvc.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Notificaciones.SI.Datos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Notificaciones.SI.Datos.Nab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Notificaciones.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Notificaciones.US, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Seguridad.BS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Seguridad.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Seguridad.DS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
@@ -1458,8 +1568,24 @@ The Global Assembly Cache contains the following assemblies:
   Bccr.Seguridad.Sesion.SI.Datos.AdmSesion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Seguridad.SI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Seguridad.SI.Datos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Seguridad.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Seguridad.UI.Controles, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Seguridad.UI.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Seguridad.US, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sfd.Helpers.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sinpe.Mex.SI.Datos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sinpe.Seguridad.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sinpe.Seguridad.SI.Datos, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Sinpe.Tft.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Sinpe.Tft.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sugese.Cts.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sugese.Dms.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sugese.Identificacion, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e275abf279df34b3, processorArchitecture=MSIL
+  Bccr.Sugese.Nes.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sugese.Rif.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sugese.Rps.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sugese.Rrs.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Bccr.Sugese.Sas.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Sugese.Seguridad.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Sugese.Seguridad.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   Bccr.Utilitarios.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
@@ -1472,6 +1598,12 @@ The Global Assembly Cache contains the following assemblies:
   EntityFramework, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  FarPoint.Mvc.Spread, Version=8.40.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.Web.Chart, Version=8.40.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.Web.Chart.Design, Version=8.40.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.Web.Spread, Version=8.40.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.Web.Spread.Design, Version=8.40.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
+  FarPoint.Web.Spread.Extender, Version=8.40.20143.0, Culture=neutral, PublicKeyToken=327c3516b1b18457, processorArchitecture=MSIL
   FSharp.Compiler, Version=4.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   FSharp.Compiler, Version=4.3.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   FSharp.Compiler.Interactive.Settings, Version=4.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -1495,6 +1627,11 @@ The Global Assembly Cache contains the following assemblies:
   FSharp.ProjectSystem.PropertyPages, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   FSharp.VS.FSI, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   FSharp.VS.FSI, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  gdk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  glib-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  gtk-dotnet, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
+  gtk-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
   Infragistics4.Web.Design.v10.3, Version=10.3.20103.2120, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL
   Infragistics4.Web.v10.3, Version=10.3.20103.2120, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL
   Infragistics4.WebUI.Design.v10.3, Version=10.3.20103.2120, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL
@@ -1540,6 +1677,8 @@ The Global Assembly Cache contains the following assemblies:
   Infragistics4.WebUI.WebSpellChecker.v10.3, Version=10.3.20103.2120, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL
   Infragistics4.WebUI.WebSpellChecker.v10.3.Design, Version=10.3.20103.2120, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL
   InstallUtil.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Institucional.SAW.BS.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
+  Institucional.SAW.Model.v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   jsc.resources, Version=10.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   MetricsPackage, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   MetricsPackage, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -1570,7 +1709,11 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Build.Conversion.v4.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Build.Conversion.v4.0.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Build.CPPTasks.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.CPPTasks.Common, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Build.CPPTasks.Common.v110, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.CPPTasks.Itanium, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.CPPTasks.Win32, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Build.CPPTasks.x64, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Build.Engine, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Build.Engine, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Build.Engine.resources, Version=12.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -1644,6 +1787,7 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Data.Tools.Schema.DbSqlPackage, Version=10.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Data.Tools.Schema.Sql.UnitTesting, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Microsoft.Expression.Interactions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.Html.Core, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.Html.Editor, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.IdentityModel.Extensions, Version=2.0.0.0, Culture=neutral, PublicKeyToken=69c3241e6f0468ca, processorArchitecture=MSIL
@@ -2280,7 +2424,6 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.SharePoint.Client.Taxonomy, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   Microsoft.SharePoint.Client.UserProfiles, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
   Microsoft.SharePoint.WorkflowServices.Activities, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL
-  Microsoft.Speech.Tools.AppDev.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.SqlServer.TransactSql, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
   Microsoft.SqlServer.TransactSql.ScriptDom, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL
   Microsoft.TeamFoundation.Build.Client, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -2897,6 +3040,7 @@ The Global Assembly Cache contains the following assemblies:
   Microsoft.Workflow.VSDesigner, Version=12.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Microsoft.XmlEditor, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   Microsoft.XmlEditor, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Mono.Cairo, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL
   MSBuild.resources, Version=12.0.0.0, Culture=de, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   MSBuild.resources, Version=12.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   MSBuild.resources, Version=12.0.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
@@ -2910,12 +3054,12 @@ The Global Assembly Cache contains the following assemblies:
   msddslmp, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   msddsp, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   msddsp, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  NPOI, Version=1.2.4.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   NuGet.Core, Version=1.0.11220.104, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   NuGet.Core, Version=1.6.30117.9648, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
+  pango-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f, processorArchitecture=MSIL
   perfpkg, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   perfpkg, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
-  policy.10.5.Microsoft.Speech.Tools.AppDev.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
-  policy.10.5.Microsoft.Speech.Tools.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   policy.2.3.FSharp.Core, Version=2.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   PresentationBuildTasks, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   PresentationBuildTasks.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -2937,102 +3081,12 @@ The Global Assembly Cache contains the following assemblies:
   ReachFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   ReachFramework.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   Regasm.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
+  Shell, Version=1.0.0.0, Culture=neutral, PublicKeyToken=607c925da8d17da1, processorArchitecture=MSIL
   SMDiagnostics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   SMDiagnostics.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   SMSvcHost.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   StanCore, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   StanCore, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
-  Syncfusion.Chart.Wpf, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Chart.Wpf, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Chart.Wpf, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Compression.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Compression.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Compression.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Core, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL
-  Syncfusion.Core, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL
-  Syncfusion.Core, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL
-  Syncfusion.DocIO.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocIO.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocIO.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocIO.Helper.Mvc, Version=13.1300.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocIO.Helper.Mvc, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocIO.Helper.Mvc, Version=13.1500.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocToPDFConverter.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocToPDFConverter.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocToPDFConverter.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.DocToPDFConverter.ClientProfile, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.Export, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.Export, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.Export, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.MVC, Version=13.1300.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.MVC, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.MVC, Version=13.1500.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.Olap, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.Olap, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.Olap, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.ReportViewer, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.ReportViewer, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.EJ.ReportViewer, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ExcelToPDFConverter.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ExcelToPDFConverter.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ExcelToPDFConverter.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Gauge.WPF, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Gauge.WPF, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Gauge.WPF, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Linq.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Linq.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Linq.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.OfficeChart.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.OfficeChart.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.OfficeChart.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.OfficeChartToImageConverter.Wpf, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.OfficeChartToImageConverter.Wpf, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.OfficeChartToImageConverter.Wpf, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Olap.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Olap.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Olap.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Pdf.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Pdf.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Pdf.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Pdf.Helper.Mvc, Version=13.1300.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Pdf.Helper.Mvc, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Pdf.Helper.Mvc, Version=13.1500.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PivotAnalysis.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PivotAnalysis.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PivotAnalysis.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PMML.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PMML.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PMML.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Presentation.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Presentation.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Presentation.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PresentationToPdfConverter.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PresentationToPdfConverter.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.PresentationToPdfConverter.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ReportControls.Wpf, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ReportControls.Wpf, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ReportControls.Wpf, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ReportWriter.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ReportWriter.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.ReportWriter.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.SfChart.WPF, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.SfChart.WPF, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.SfChart.WPF, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.SfMaps.WPF, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.SfMaps.WPF, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.SfMaps.WPF, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Shared.Wpf, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Shared.Wpf, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.Shared.Wpf, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.XlsIO.Base, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.XlsIO.Base, Version=13.1450.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.XlsIO.Base, Version=13.1451.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.XlsIO.Helper.Mvc, Version=13.1300.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.XlsIO.Helper.Mvc, Version=13.1400.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
-  Syncfusion.XlsIO.Helper.Mvc, Version=13.1500.0.21, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL
   sysglobl, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   sysglobl.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
@@ -3319,6 +3373,7 @@ The Global Assembly Cache contains the following assemblies:
   System.Windows.Forms.VisualStudio.11.0, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   System.Windows.Input.Manipulations, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   System.Windows.Input.Manipulations.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
+  System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   System.Windows.Presentation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   System.Windows.Presentation.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   System.Workflow.Activities, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -3341,9 +3396,91 @@ The Global Assembly Cache contains the following assemblies:
   System.Xml.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL
   System.Xml.XDocument, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
   System.Xml.XmlSerializer, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL
-  Telerik.Web.Design, Version=2015.1.401.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL
-  Telerik.Web.Design, Version=2015.1.401.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL
+  Telerik.Licensing, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=10f4ab03a51b01b9, processorArchitecture=MSIL
+  Telerik.ReportConverter.ActiveReports, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportConverter.CrystalReports, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportConverter.XtraReports, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Adomd, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Cache.Database, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Cache.StackExchangeRedis, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Design, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Design.Components, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Design.GraphConverters, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Design.GraphWizard, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Design.VisualStudio, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.OpenXmlRendering, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Service, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Services.WebApi, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.Vs.Common, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.Reporting.XpsRendering, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.Design.Common, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.Html5.Design, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.Mvc, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.WebForms, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.WebForms.Design, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.WinForms, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.WinForms.Design, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.Wpf, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.ReportViewer.Wpf.Design, Version=9.0.15.324, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL
+  Telerik.TeamPulse.Sdk, Version=2013.3.1028.2, Culture=neutral, PublicKeyToken=b05c78562a8d51b1, processorArchitecture=MSIL
+  Telerik.TestingFramework.Controls.KendoUI, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=528163f3e645de45, processorArchitecture=MSIL
+  Telerik.TestingFramework.Hosts.Common, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=26f806f9b37d4b0a, processorArchitecture=MSIL
+  Telerik.TestingFramework.Interop, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=8ca00d3e0ebd4b8b, processorArchitecture=MSIL
+  Telerik.TestingFramework.Json, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d, processorArchitecture=MSIL
+  Telerik.TestingFramework.Socket, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=2a640d0d66a1fcf1, processorArchitecture=MSIL
+  Telerik.TestingFramework.WpfExtension, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=3fd81c5c4516f739, processorArchitecture=MSIL
+  Telerik.TestStudio.Analytics, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=72a7c9d323d40cd7, processorArchitecture=MSIL
+  Telerik.TestStudio.Interfaces, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=b9f4c4e36181b3de, processorArchitecture=MSIL
+  Telerik.TestStudio.Jira.BugTracking, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=83079a39d63be0d8, processorArchitecture=MSIL
+  Telerik.TestStudio.Plugins, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=308294b5ce7f3552, processorArchitecture=MSIL
+  Telerik.TestStudio.Recorder, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=7d2140e4af3b4c9f, processorArchitecture=MSIL
+  Telerik.TestStudio.TeamPulse, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=308294b5ce7f3552, processorArchitecture=MSIL
+  Telerik.TestStudio.Translators.KendoUI, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=528163f3e645de45, processorArchitecture=MSIL
+  Telerik.Web.Design, Version=2015.1.225.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL
+  Telerik.Web.Design, Version=2015.1.225.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL
   Telerik.Web.Mvc, Version=2012.1.214.340, Culture=neutral, PublicKeyToken=29ac1a93ec063d92, processorArchitecture=MSIL
+  Telerik.WebAii.Controls.Html, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=528163f3e645de45, processorArchitecture=MSIL
+  Telerik.WebAii.Controls.Xaml, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=528163f3e645de45, processorArchitecture=MSIL
+  Telerik.WebAii.Controls.Xaml.Wpf, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=528163f3e645de45, processorArchitecture=MSIL
+  Telerik.WebAii.Design.Translators.Html, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=528163f3e645de45, processorArchitecture=MSIL
+  Telerik.WebAii.Design.Translators.Xaml, Version=2015.1.319.0, Culture=neutral, PublicKeyToken=528163f3e645de45, processorArchitecture=MSIL
+  Telerik.Windows.Controls, Version=2014.1.331.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls, Version=2014.2.617.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls, Version=2014.3.1202.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Chart.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Data.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.DataVisualization.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Docking.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Expressions.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.GridView.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Input, Version=2014.1.331.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Input, Version=2014.2.617.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Input, Version=2014.3.1202.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Input.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Navigation, Version=2014.1.331.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Navigation, Version=2014.2.617.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Navigation, Version=2014.3.1202.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.Navigation.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.RibbonView.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.RichTextBoxUI.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Controls.ScheduleView.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Data, Version=2014.1.331.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Data, Version=2014.2.617.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Data, Version=2014.3.1202.45, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Data.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.Core.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.Fixed.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.Flow.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.FormatProviders.Html.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.FormatProviders.OpenXml.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.FormatProviders.Pdf.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.FormatProviders.Rtf.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Documents.FormatProviders.Xaml.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
+  Telerik.Windows.Zip.2014.3.1211.1140, Version=2014.3.1211.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL
   UIAutomationClient, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   UIAutomationClient.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   UIAutomationClientsideProviders, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
@@ -3377,4 +3514,4 @@ The Global Assembly Cache contains the following assemblies:
   XsdBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
   XsdBuildTask.resources, Version=4.0.0.0, Culture=es, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL
 
-Number of items = 3374
+Number of items = 3511
