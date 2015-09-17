@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <section name="webDriverSettings" type="Bccr.Selenium.Tools.Configuration.WebDriverSettings, Bccr.Selenium.Tools"/>
+  </configSections>
+  <appSettings>
+    <add key="urlBase" value="http://wwww.bing.com/" />
+  </appSettings>
+  <webDriverSettings>
+    <remoteDriver address="http://hub.crossbrowsertesting.com:80/wd/hub">
+      <desiredCapabilities>
+        <capability key="username" value="dmorales@cruxConsultores.com" />
+        <capability key="password" value="u846d14b2e7cde31" />
+        <capability key="record_video" value="true"/>
+        <capability key="record_network" value="true"/>
+        <capability key="record_snapshot" value="true"/>
+      </desiredCapabilities>
+    </remoteDriver>
+    <localDriver directory="c://drivers/">
+    </localDriver>
+    <generalBrowserOptions>
+      <browser name="Chrome">
+        <!--switches-->
+        <browserPreferences>
+          <browserPreference key="disableapplicationcache" value="--disable-application-cache">
+          </browserPreference>
+        </browserPreferences>
+      </browser>
+      <browser name="Firefox">
+        <desiredCapabilities>
+          <capability key="javascriptEnabled" value="true"/>
+        </desiredCapabilities>
+      </browser>
+    </generalBrowserOptions>
+    <supportedBrowsers>
+      <supportedBrowser key="Chrome" name="Chrome" driverLocation="local" ignore="false">
+        <desiredCapabilities />
+      </supportedBrowser>
+      <supportedBrowser key="FF" name="Firefox" driverLocation="local" ignore="false">
+        <desiredCapabilities />
+      </supportedBrowser>
+      <supportedBrowser key="IE" name="InternetExplorer" driverLocation="local" ignore="false">
+        <desiredCapabilities />
+      </supportedBrowser>
+      <supportedBrowser key="Chrome44" name="Chrome" driverLocation="remote" ignore="false">
+        <desiredCapabilities>
+          <capability key="browser_api_name" value="Chrome44" />
+          <capability key="os_api_name" value="Win10" />
+          <capability key="screen_resolution" value="1024x768" />
+        </desiredCapabilities>
+      </supportedBrowser>
+      <supportedBrowser key="FF39" name="Firefox" driverLocation="remote" ignore="false">
+        <desiredCapabilities>
+          <capability key="browser_api_name" value="FF39" />
+          <capability key="os_api_name" value="Win10" />
+          <capability key="screen_resolution" value="1024x768" />
+        </desiredCapabilities>
+      </supportedBrowser>
+      <supportedBrowser key="IE11" name="InternetExplorer" driverLocation="remote" ignore="false">
+        <desiredCapabilities>
+          <capability key="browser_api_name" value="IE11" />
+          <capability key="os_api_name" value="Win10" />
+          <capability key="screen_resolution" value="1024x768" />
+        </desiredCapabilities>
+      </supportedBrowser>
+    </supportedBrowsers>  </webDriverSettings>
+
+</configuration>
