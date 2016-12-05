@@ -1,5 +1,5 @@
- estado =
-             '<div class="col-xs-7 hidden-md hidden-lg col-sm-2">Curso Matriculado:</div><div class="col-xs-5 negrita col-md-12 text-center col-sm-2"> ' +
-                '<button type="button" id="img' + data[i].ID_MATERIA + ' title="Curso Matriculado" class="btn btn-info btn-circle Verde "> ' +
-                   '<i class="glyphicon glyphicon-ok"></i> ' +
-                   '</button> ' + '</div>';
+  estado =
+               '<div class="col-xs-7 hidden-md hidden-lg hidden col-sm-2">Curso Matriculado:</div><div class="col-xs-5 negrita col-md-12 text-center hidden col-sm-2"> ' +
+                  '<button type="button" id="img' + data[i].ID_MATERIA + ' title="" class="imgVerticalMiddle imghide btn btn-info btn-circle Verde hidden "> ' +
+                     '<i class="glyphicon glyphicon-ok"></i> ' +
+                     '</button> ' + '</div>';
